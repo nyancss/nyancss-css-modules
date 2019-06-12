@@ -795,13 +795,17 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@nyancss/types@../nyancss-types/lib":
+"@nyancss/types@^1":
   version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@nyancss/types/-/types-1.0.0.tgz#ea975f6b663fccaae8138fa96f9b17e7ca2af63f"
+  integrity sha512-NyyX0fklD+rTKEWi5NCx/WwbJMBW2zRgwtA057TLdaXhJbPLDgLvVdvMqHeCuvlfhVGFol99x3LOCXLJpVK4Og==
 
-"@nyancss/utils@../nyancss-utils/lib/":
+"@nyancss/utils@^1":
   version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@nyancss/utils/-/utils-1.0.0.tgz#4f3541007da6734d0ec58d8fb12bd50c3f505d26"
+  integrity sha512-dgrnCkffEHlQYk1nsziJifVdSUBLn71ULKfBQ4JNnTXyth46FZYn7yTdDPLjQH+FXTDa/ZIhN66/Pni/a+HgQA==
   dependencies:
-    "@nyancss/types" "../nyancss-types/lib"
+    "@nyancss/types" "^1"
 
 "@types/babel__core@^7.1.0":
   version "7.1.2"
