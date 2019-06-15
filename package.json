@@ -2,7 +2,7 @@
   "name": "@nyancss/css-modules",
   "version": "1.0.0",
   "description": "Converts CSS Modules into Nyan CSS",
-  "main": "lib/index.js",
+  "main": "index.js",
   "repository": "https://github.com/nyancss/nyancss-css-modules",
   "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
