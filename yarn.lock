@@ -9,7 +9,7 @@
   dependencies:
     "@babel/highlight" "^7.0.0"
 
-"@babel/core@^7.1.0":
+"@babel/core@^7.1.0", "@babel/core@^7.4.5":
   version "7.4.5"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.4.5.tgz#081f97e8ffca65a9b4b0fdc7e274e703f000c06a"
   integrity sha512-OvjIh6aqXtlsA8ujtGKfC7LYWksYSX8yQcM8Ay3LuvVeQ63lcOKgoZWVqcpFwkd29aYU9rVx7jxhfhiEDV9MZA==
@@ -800,12 +800,17 @@
   resolved "https://registry.yarnpkg.com/@nyancss/types/-/types-1.0.0.tgz#ea975f6b663fccaae8138fa96f9b17e7ca2af63f"
   integrity sha512-NyyX0fklD+rTKEWi5NCx/WwbJMBW2zRgwtA057TLdaXhJbPLDgLvVdvMqHeCuvlfhVGFol99x3LOCXLJpVK4Og==
 
-"@nyancss/utils@^1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@nyancss/utils/-/utils-1.0.0.tgz#4f3541007da6734d0ec58d8fb12bd50c3f505d26"
-  integrity sha512-dgrnCkffEHlQYk1nsziJifVdSUBLn71ULKfBQ4JNnTXyth46FZYn7yTdDPLjQH+FXTDa/ZIhN66/Pni/a+HgQA==
+"@nyancss/types@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@nyancss/types/-/types-1.1.0.tgz#1b6030a6ee7143a0ba2e556bff72d9da7bb13ef6"
+  integrity sha512-iiC7HUmil5T3pLcRDP+9Iza0WbN9ZXD9t5UGvwscf8PC97JJyXQe1tS5fea3DskEB8mxUUh/J8A14LMyvX71kw==
+
+"@nyancss/utils@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@nyancss/utils/-/utils-1.1.0.tgz#a047561e9a4e59189dc4120bf270958def76230e"
+  integrity sha512-lhsFBefChRg5nQ7GJvEidrvCgC5TaRT1sAXTdqDMOMwYtlAYJX37/KaAUy671dtMWHn4tc8ZIuFv42egI/ZxWQ==
   dependencies:
-    "@nyancss/types" "^1"
+    "@nyancss/types" "^1.1.0"
 
 "@types/babel__core@^7.1.0":
   version "7.1.2"
