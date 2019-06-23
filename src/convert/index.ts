@@ -3,7 +3,7 @@ import {
   applyComponent,
   tryApplyBooleanProp,
   tryApplyEnumProp
-} from '@nyancss/utils'
+} from '@nyancss/utils/parse'
 import { NyanCSSModules } from '../types'
 
 export default function convert(cssModules: NyanCSSModules) {

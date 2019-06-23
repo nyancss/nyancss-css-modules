@@ -7,6 +7,12 @@ This change log follows the format documented in [Keep a CHANGELOG].
 [semantic versioning]: http://semver.org/
 [keep a changelog]: http://keepachangelog.com/
 
+## 1.2.0 - 2019-06-23
+
+### Added
+
+- Import parse utils directly from @nyancss/utils/parse to avoid build bloating.
+
 ## 1.1.0 - 2019-06-16
 
 ### Added

@@ -1,6 +1,6 @@
 {
   "name": "@nyancss/css-modules",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Convert CSS Modules into Nyan CSS",
   "main": "index.js",
   "repository": "https://github.com/nyancss/nyancss-css-modules",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@nyancss/types": "^1",
-    "@nyancss/utils": "^1.1.0"
+    "@nyancss/utils": "^1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
