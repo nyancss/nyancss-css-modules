@@ -805,7 +805,7 @@
   resolved "https://registry.yarnpkg.com/@nyancss/types/-/types-1.1.0.tgz#1b6030a6ee7143a0ba2e556bff72d9da7bb13ef6"
   integrity sha512-iiC7HUmil5T3pLcRDP+9Iza0WbN9ZXD9t5UGvwscf8PC97JJyXQe1tS5fea3DskEB8mxUUh/J8A14LMyvX71kw==
 
-"@nyancss/utils@^1.2.0":
+"@nyancss/utils@^1.2":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@nyancss/utils/-/utils-1.2.0.tgz#c753bf08cde34fb08bc963b46b0625f19ffe93a0"
   integrity sha512-9QWCpjZGo5GupaS+6C6VfYscaZo2PGsr8SWs+/B7ryrA6ztSAYE3EOVvTQIdxYC23ccZzsfIlM2tqcchUMOq+A==
@@ -3897,9 +3897,9 @@ throat@^4.0.0:
   integrity sha1-iQN8vJLFarGJJua6TLsgDhVnKmo=
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
